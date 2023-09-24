@@ -1,0 +1,47 @@
+[
+    {
+      "timestamp": "1682052540000",
+      "date": "2023-04-21 04:49:00",
+      "asset_name": "ETH",
+      "amount": "7.24",
+      "price": "1940.89",
+      "asset_ratio": "0.87",
+      "aggregate": "42.092779"
+    },
+    {
+      "timestamp": "1682052600000",
+      "date": "2023-04-21 08:50:00",
+      "asset_name": "ETH",
+      "amount": "8.23",
+      "price": "1940.91",
+      "asset_ratio": "0.24",
+      "aggregate": "38.258506"
+    },
+    {
+      "timestamp": "1682052660000",
+      "date": "2023-04-22 04:51:00",
+      "asset_name": "ETH",
+      "amount": "123.1",
+      "price": "1940.75",
+      "asset_ratio": "0.14",
+      "aggregate": "10.977024"
+    },
+    {
+      "timestamp": "1682052720000",
+      "date": "2023-04-22 04:59:00",
+      "asset_name": "ETH",
+      "amount": "776.0",
+      "price": "1940.5",
+      "asset_ratio": "0.032",
+      "aggregate": "10.624569"
+    },
+    {
+      "timestamp": "1682052780000",
+      "date": "2023-04-22 09:53:00",
+      "asset_name": "ETH",
+      "amount": "345.6",
+      "price": "1940.48",
+      "asset_ratio": "0.42",
+      "aggregate": "4.697399"
+    }
+]
